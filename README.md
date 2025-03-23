@@ -63,7 +63,7 @@ Users get to experience a hassle-free login system by just entering their email 
 Open your favorite Terminal and run these commands:
 Clone the repository: 
 ```sh
-git clone https://github.com/Soumyajit2825/Krishi-Samarth
+(https://github.com/akhilariyaram/Digital-Knowledge-Hub.git)
 ```
 Navigate to the project folder:
 
