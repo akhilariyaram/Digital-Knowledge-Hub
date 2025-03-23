@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Sanskrit';
+    src: local('Sanskrit'),
+         url('./SamarkanNormal-Gg5D.ttf') format('truetype');
+}
+.font-sanskrit {
+    font-family: 'Sanskrit', sans-serif;
+  }

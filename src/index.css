@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    top: 0;
+}
+
+iframe {
+    display: none;
+}
+.VIpgJd-ZVi9od-l4eHX-hSRGPd{
+    display: none;
+} 

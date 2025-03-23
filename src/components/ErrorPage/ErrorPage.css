@@ -1,0 +1,46 @@
+.ErrorPage {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .ErrorPage h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .ErrorPage p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .ErrorPage .Image {
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+  }
+  
+  .ErrorPage button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #fa541c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .ErrorPage button:hover {
+    background-color: #d4380d;
+  }
+  
+  .ErrorPage .Btn {
+    text-decoration: none;
+    color: white;
+  }
+  
+  
